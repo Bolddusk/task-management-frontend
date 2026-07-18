@@ -15,6 +15,9 @@ dist-ssr
 .env.*
 !.env.example
 
+# Deployment notes (local only)
+.deployment
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
